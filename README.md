@@ -57,6 +57,8 @@ You can go to next song while the song is playing, it will automatically play th
 ![alt text](https://github.com/fiirrman/SimpleMusicApps/blob/main/SS/nextsong-resize.png)
 
 
+For any information, feel free to contact me.
+Thank you
 
 
 
